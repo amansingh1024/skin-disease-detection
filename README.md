@@ -150,7 +150,6 @@ streamlit run app.py
 ## 🔮 Future Improvements
 
 - Additional skin disease classes
-- Mobile application support
 - Explainable AI (XAI)
 - Cloud deployment
 - Multi-image diagnosis support
